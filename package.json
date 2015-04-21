@@ -1,0 +1,11 @@
+{
+  "uid": "github.com/pinf-it/pinf-it-vcs-insight",
+  "name": "pinf-it-vcs-insight",
+  "version": "0.1.0",
+  "main": "plugin.js",
+  "config": {
+    "pio.deploy.converter": {
+      "name": "nodejs-lib"
+    }
+  }
+}
